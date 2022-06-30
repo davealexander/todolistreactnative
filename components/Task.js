@@ -29,18 +29,19 @@ const styles = StyleSheet.create({
         flewWrap: 'wrap'
     },
     square: {
+        padding: 5,
         width:24,
         height:24,
         backgroundColor: '#55BCF6',
         opacity: 0.4,
         borderRadius: 5,
-        marginRIght: 15,
+        marginRight: 15,
     },
-    itemTExt: {
+    itemText: {
         maxWidth: '80%',
     },
     circular: {
-        widht:12,
+        width:12,
         height:12,
         borderColor: '#55BCF6',
         borderWidth: 2,
